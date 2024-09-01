@@ -1,0 +1,55 @@
+<main>
+        <div class="grid-container">
+            <!-- Repeat this block for each image or video -->
+            <div class="grid-item">
+                <img src="assets/BeeRRy.JPG" alt="Portfolio Item">
+                <div class="overlay">
+                    <h3>Project Title</h3>
+                    <p>Short description about the project.</p>
+                </div>
+            </div>
+            <div class="grid-item">
+                <img src="assets/Solay _ Febi _uconblacksky(JPG)_9.jpg" alt="Portfolio Item">
+                <div class="overlay">
+                    <h3>Project Title</h3>
+                    <p>Short description about the project.</p>
+                </div>
+            </div>
+            <div class="grid-item">
+                <img src="assets/_uconproject94 _uconprewed(WEBP)_2.webp" alt="Portfolio Item">
+                <div class="overlay">
+                    <h3>Project Title</h3>
+                    <p>Short description about the project.</p>
+                </div>
+            </div>
+            <div class="grid-item">
+                <img src="assets/IMG_8117.jpg" alt="Portfolio Item">
+                <div class="overlay">
+                    <h3>Project Title</h3>
+                    <p>Short description about the project.</p>
+                </div>
+            </div>
+            <div class="grid-item">
+                <img src="assets/IMG_9064.JPG" alt="Portfolio Item">
+                <div class="overlay">
+                    <h3>Project Title</h3>
+                    <p>Short description about the project.</p>
+                </div>
+            </div>
+            <div class="grid-item">
+                <img src="assets/Album Kolase _uconproject94(WEBP).webp" alt="Portfolio Item">
+                <div class="overlay">
+                    <h3>Project Title</h3>
+                    <p>Short description about the project.</p>
+                </div>
+            </div>
+            <div class="grid-item">
+                <img src="assets/Album Kolase _uconproject94(WEBP)_2.webp" alt="Portfolio Item">
+                <div class="overlay">
+                    <h3>Project Title</h3>
+                    <p>Short description about the project.</p>
+                </div>
+            </div>
+            <!-- Add more items as needed -->
+        </div>
+    </main>
